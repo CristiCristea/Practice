@@ -1,0 +1,7 @@
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\bin\Debug\Garden-Zoo-Management.exe.config
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\bin\Debug\Garden-Zoo-Management.exe
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\bin\Debug\Garden-Zoo-Management.pdb
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\obj\Debug\Garden-Zoo-Management.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\obj\Debug\Garden-Zoo-Management.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\obj\Debug\Garden-Zoo-Management.exe
+C:\Users\Cristian\source\repos\Garden-Zoo-Management\Garden-Zoo-Management\obj\Debug\Garden-Zoo-Management.pdb
